@@ -1,1 +1,1 @@
-Git 연습용 파일입니다.
+이건  visual studio code에서 수정
